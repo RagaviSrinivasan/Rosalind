@@ -15,11 +15,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="01_count_nucleotides.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01_count_nucleotides.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="116" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="116" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_transcribe.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_transcribe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="03_complement_strand.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03_complement_strand.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="36" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="36" />
+            <state relative-caret-position="50">
+              <caret line="2" column="58" lean-forward="false" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -52,10 +72,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03_complement_strand.py" />
         <option value="$PROJECT_DIR$/04_GC_content.py" />
         <option value="$PROJECT_DIR$/01_count_nucleotides.py" />
         <option value="$PROJECT_DIR$/02_transcribe.py" />
+        <option value="$PROJECT_DIR$/03_complement_strand.py" />
       </list>
     </option>
   </component>
@@ -135,7 +155,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.02_transcribe">
+  <component name="RunManager" selected="Python.03_complement_strand">
     <configuration default="false" name="01_count_nucleotides" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,10 +366,10 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.02_transcribe" />
-        <item index="1" class="java.lang.String" itemvalue="Python.01_count_nucleotides" />
-        <item index="2" class="java.lang.String" itemvalue="Python.04_GC_content" />
-        <item index="3" class="java.lang.String" itemvalue="Python.03_complement_strand" />
+        <item index="0" class="java.lang.String" itemvalue="Python.03_complement_strand" />
+        <item index="1" class="java.lang.String" itemvalue="Python.02_transcribe" />
+        <item index="2" class="java.lang.String" itemvalue="Python.01_count_nucleotides" />
+        <item index="3" class="java.lang.String" itemvalue="Python.04_GC_content" />
       </list>
     </recent_temporary>
   </component>
@@ -545,24 +565,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01_count_nucleotides.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="3" column="116" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="116" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02_transcribe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="50">
+          <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_complement_strand.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="36" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="36" />
+        <state relative-caret-position="50">
+          <caret line="2" column="58" lean-forward="false" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
           <folding />
         </state>
       </provider>
